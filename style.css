@@ -34,7 +34,7 @@ body {
     height: 80px;
     left: 50%;
     bottom: 50%;
-    background-color: rgb(255, 72, 72);
+    background-color: #525252;
     transform: translateX(-50%) rotate(0deg);
     clip-path: polygon(50% 0%, 94% 78%, 68% 100%, 32% 100%, 6% 78%);
 }
@@ -54,7 +54,7 @@ body {
     height: 120px;
     left: 50%;
     bottom: 50%;
-    background-color: #525252;
+    background-color: rgb(255, 72, 72);
     transform: translateX(-50%) rotate(0deg);
     clip-path: polygon(50% 0%, 94% 78%, 68% 100%, 32% 100%, 6% 78%);
 }
