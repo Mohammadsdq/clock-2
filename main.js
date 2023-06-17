@@ -17,4 +17,4 @@ function rotateTime() {
   secondHand.style.transform = `translateX(-50%) rotate(${sRotate}deg)`;
 };
 
-setInterval(rotateTime, 1000)
+setInterval(rotateTime, 1000);
